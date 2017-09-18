@@ -1,0 +1,18 @@
+/*Footer*/
+
+#thafooter {
+    color: white;
+    background-color: black;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 1em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
